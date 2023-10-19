@@ -5,7 +5,6 @@ import TelaMenu from "./interfaces/TelaMenuSistema.js";
 import Tela404 from "./interfaces/Tela404.js";
 import TelaCadastroExemplar from "./interfaces/TelaFormExemplar.jsx";
 import TelaDevolucao from "./interfaces/TelaCadastroDevolucao.jsx";
-import AppRoutes from "./AppRoutes.jsx"
 
 function App() {
   return (
