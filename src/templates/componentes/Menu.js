@@ -2,16 +2,10 @@ import { Button, Container, Form, Nav, Navbar, NavDropdown, Image } from 'react-
 import { Link } from 'react-router-dom';
 import Icone from '../../img/icone.png'
 import React, { useContext } from 'react';
-import { AuthContext } from '../../contexts/auth';
 import '../estilos/MenuCss.css'
 
 
 export default function Menu(props) {
-
-  const { authenticated, logout } = useContext(AuthContext);
-  const handleLogout = () => {
-    logout();
-  };
 
   return (
     <Navbar expand="lg">
@@ -50,14 +44,6 @@ export default function Menu(props) {
             <Button variant="outline-success" className='botão'>Pesquisar</Button>
 
           </Form>
-
-          <p >{String(authenticated)}</p>
-          <button
-            className="btn-sair"
-            onClick={handleLogout}
-          >
-            Sair
-          </button>
         </Navbar.Collapse>
       </Container>
     </Navbar>
