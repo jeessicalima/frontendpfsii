@@ -1,1 +1,1 @@
-export const urlBase = "http://129.146.68.51:4025";
+export const urlBase = "https://129.146.68.51/aluno25-pfsii";
