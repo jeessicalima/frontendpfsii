@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/frontendpfsii/static/css/main.4157671f.css",
-    "main.js": "/frontendpfsii/static/js/main.0a457f74.js",
-    "static/media/backgroundCadastro.jpg": "/frontendpfsii/static/media/backgroundCadastro.2089f12bb5d0a7ef00cb.jpg",
+    "main.css": "/frontendpfsii/static/css/main.a3285ea4.css",
+    "main.js": "/frontendpfsii/static/js/main.6b0b5b8d.js",
     "static/media/-gpLarge.jpg": "/frontendpfsii/static/media/f0910838545f47a3cd8e53fd46e5d8cb-gpLarge.2089f12bb5d0a7ef00cb.jpg",
     "static/media/bootstrap-icons.woff?": "/frontendpfsii/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/bootstrap-icons.woff2?": "/frontendpfsii/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
     "static/media/canvas-hintergrund-textur-blau.jpg": "/frontendpfsii/static/media/canvas-hintergrund-textur-blau.800f0457473dcecae635.jpg",
     "static/media/icone.png": "/frontendpfsii/static/media/icone.11c180d71ada056af47b.png",
     "index.html": "/frontendpfsii/index.html",
-    "main.4157671f.css.map": "/frontendpfsii/static/css/main.4157671f.css.map",
-    "main.0a457f74.js.map": "/frontendpfsii/static/js/main.0a457f74.js.map"
+    "main.a3285ea4.css.map": "/frontendpfsii/static/css/main.a3285ea4.css.map",
+    "main.6b0b5b8d.js.map": "/frontendpfsii/static/js/main.6b0b5b8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4157671f.css",
-    "static/js/main.0a457f74.js"
+    "static/css/main.a3285ea4.css",
+    "static/js/main.6b0b5b8d.js"
   ]
 }
