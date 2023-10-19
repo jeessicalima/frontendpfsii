@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { useState } from "react";
-import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import TelaMenu from "./interfaces/TelaMenuSistema.js";
 import Tela404 from "./interfaces/Tela404.js";
 import TelaCadastroExemplar from "./interfaces/TelaFormExemplar.jsx";
