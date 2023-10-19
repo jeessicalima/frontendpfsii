@@ -3,7 +3,7 @@ import { useState } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import TelaMenu from "./interfaces/TelaMenuSistema.js";
 import Tela404 from "./interfaces/Tela404.js";
-import TelaFormExemplar from "./interfaces/TelaFormExemplar.jsx"
+import TelaFormExemplar from "./interfaces/TelaFormExemplar.jsx";
 import TelaDevolucao from "./interfaces/TelaCadastroDevolucao.jsx";
 
 function App() {
