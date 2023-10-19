@@ -6,7 +6,7 @@ import TabelaDevolucao from "../tabelas/TabelaDevolucao.jsx";
 import Pagina from "../templates/componentes/Pagina.js";
 import { set } from "react-hook-form";
 
-export default function TelaDevolucao(props) { //ver se alterei nos outros
+export default function TelaDevolucao(props) { 
 
     const [exibirTabela, setExibirTabela] = useState(true);
     const [devolucoes, setDevolucoes] = useState([]);
